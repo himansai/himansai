@@ -40,7 +40,7 @@ Hey there! I'm Himan Sai, a third-year Electronics and Communication Engineering
 # 📬 **Connect with Me:**
 
 • 📧 **Email:** himansai21@gmail.com  
-• 💼 **LinkedIn:** Himan  
+• 💼 **LinkedIn:** himansai  
 • 🏗️ **GitHub:** himansai  
 
 <hr style="border: 0; border-top: 0.5px solid #d3d3d3; opacity: 0.2;">

@@ -23,8 +23,7 @@ Built using Python, OpenCV, InsightFace, Redis, and Streamlit.
 🔗 [Project Link](https://github.com/himansai/attendance-system-ap.git)
 
 
-🐍 **Snake Game**  
-🎮 **Snake and Apple Game**  
+🐍 **Snake Game**    
 Built a complete Snake and Apple video game using the Pygame module, featuring classic gameplay mechanics and real-time user interaction.  
 🔗 [Project Link](https://github.com/himansai/Python_Project.git)
  

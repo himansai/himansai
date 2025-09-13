@@ -4,14 +4,16 @@
 Hey there! I'm Himan Sai, a third-year Electronics and Communication Engineering student at BV Raju Institute of Technology with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 
-🚀 **Skills & Interests:**  
-💻 **Programming Languages:** C, C++, Java, Python, HTML, CSS
-📚 **Frameworks/Libraries:** Django, NumPy, Pandas, Matplotlib, Scikit-learn
-🗄️ **Databases:** MySQL, SQLite
-🧩 **Data Structures & Algorithms:** Structuring information for efficiency  
-🛠️ **Developer Tools:** Git/GitHub, Google Colab, VS Code, Power BI, Tableau, Snowflake  
-🎓 **Academic Coursework:** Data Structures, CN, OOP, DBMS  
-🎯 **Interests:** Problem-Solving, Competitive Programming, Hackathons
+🚀 **Skills & Interests:**
+
+• 💻 **Programming Languages:** C, C++, Java, Python, HTML, CSS  
+• 📚 **Frameworks/Libraries:** Django, NumPy, Pandas, Matplotlib, Scikit-learn  
+• 🗄️ **Databases:** MySQL, SQLite  
+• 🧩 **Data Structures & Algorithms:** Structuring information for efficiency  
+• 🛠️ **Developer Tools:** Git/GitHub, Google Colab, VS Code, Power BI, Tableau, Snowflake  
+• 🎓 **Academic Coursework:** Data Structures, CN, OOP, DBMS  
+• 🎯 **Interests:** Problem-Solving, Competitive Programming, Hackathons
+
 
 🏆 **Projects:**  
 🍽️ **Face Recognition Attendance System**  

@@ -39,9 +39,13 @@ Hey there! I'm Himan Sai, a third-year Electronics and Communication Engineering
 
 # 📬 **Connect with Me:**
 
-• 📧 **Email:** himansai21@gmail.com  
-• 💼 **LinkedIn:** himansai  
-• 🏗️ **GitHub:** himansai  
+• 📧 **Email:** [himansai21@gmail.com](mailto:himansai21@gmail.com)
+
+• 💼 **LinkedIn:** [himansai](https://www.linkedin.com/in/himansai/)
+
+• 🏗️ **GitHub:** [himansai](https://github.com/himansai)
+
+ 
 
 <hr style="border: 0; border-top: 0.5px solid #d3d3d3; opacity: 0.2;">
 

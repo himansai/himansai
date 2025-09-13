@@ -30,7 +30,7 @@ Built a complete Snake and Apple video game using the Pygame module, featuring c
 
 📬 **Connect with Me:**
 
----
+--
 • 📧 **Email:** himansai21@gmail.com  
 • 💼 **LinkedIn:** Grishma Gedela  
 • 🏗️ **GitHub:** himansai

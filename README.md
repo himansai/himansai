@@ -1,8 +1,11 @@
-👋 Hi, I'm BOINAPALLI HIMAN SAI
+👋 Hi, I'm BOINAPALLI HIMAN SAI  
+
+<hr style="border: 0; border-top: 0.1px dashed #d3d3d3; opacity: 0.2;">
 
 📌 **About Me**  
 Hey there! I'm Himan Sai, a third-year Electronics and Communication Engineering student at BV Raju Institute of Technology with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
+<hr style="border: 0; border-top: 0.5px solid #d3d3d3; opacity: 0.2;">
 
 🚀 **Skills & Interests:**
 
@@ -14,6 +17,7 @@ Hey there! I'm Himan Sai, a third-year Electronics and Communication Engineering
 • 🎓 **Academic Coursework:** Data Structures, CN, OOP, DBMS  
 • 🎯 **Interests:** Problem-Solving, Competitive Programming, Hackathons
 
+<hr style="border: 0; border-top: 0.5px solid #d3d3d3; opacity: 0.2;">
 
 🏆 **Projects:**  
 🍽️ **Face Recognition Attendance System**  
@@ -22,11 +26,11 @@ Features include user registration, real-time prediction, and attendance report 
 Built using Python, OpenCV, InsightFace, Redis, and Streamlit.  
 🔗 [Project Link](https://github.com/himansai/attendance-system-ap.git)
 
-
-🐍 **Snake Game**    
+🐍 **Snake Game**  
 Built a complete Snake and Apple video game using the Pygame module, featuring classic gameplay mechanics and real-time user interaction.  
 🔗 [Project Link](https://github.com/himansai/Python_Project.git)
- 
+
+<hr style="border: 0; border-top: 0.5px solid #d3d3d3; opacity: 0.2;">
 
 📬 **Connect with Me:**
 
@@ -35,12 +39,9 @@ Built a complete Snake and Apple video game using the Pygame module, featuring c
 • 🎥 **YouTube:** Grishma Educational Rainbow  
 • 🏗️ **GitHub:** grishma-gedela  
 
-<hr style="border: 0; border-top: 1px solid #d3d3d3; opacity: 0.3;">
-
-
+<hr style="border: 0; border-top: 0.5px solid #d3d3d3; opacity: 0.2;">
 
 ---
-
 
 💡 **Feedback Welcome!**  
 I'm still learning and growing as a developer, so I welcome constructive feedback and suggestions. Feel free to reach out on any platform above—let's connect! 🚀

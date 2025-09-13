@@ -10,7 +10,7 @@ Hey there! I'm Himan Sai, a third-year Electronics and Communication Engineering
 
 • 💻 **Programming Languages:** C, C++, Java, Python, HTML, CSS  
 • 📚 **Frameworks/Libraries:** Django, NumPy, Pandas, Matplotlib, Scikit-learn  
-• 🗄️ **Databases:** MySQL, SQLite  
+• 🗄️ **Databases:** MySQL
 • 🧩 **Data Structures & Algorithms:** Structuring information for efficiency  
 • 🛠️ **Developer Tools:** Git/GitHub, Google Colab, VS Code, Power BI, Tableau, Snowflake  
 • 🎓 **Academic Coursework:** Data Structures, CN, OOP, DBMS  

@@ -35,7 +35,8 @@ Built a complete Snake and Apple video game using the Pygame module, featuring c
 • 🎥 **YouTube:** Grishma Educational Rainbow  
 • 🏗️ **GitHub:** grishma-gedela  
 
-<hr style="border: 0; border-top: 1px solid #e0e0e0;">
+<hr style="border: 0; border-top: 1px solid #d3d3d3; opacity: 0.3;">
+
 
 
 ---
